@@ -1,1 +1,1 @@
-var test  ="this is my git log Try";
+var test  ="this is my git log !very good";
